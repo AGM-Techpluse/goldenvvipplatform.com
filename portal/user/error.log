@@ -1,0 +1,24 @@
+[09-Mar-2024 07:34:38 UTC] PHP Notice:  Undefined index: acct_email in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php on line 37
+[09-Mar-2024 07:34:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userDetails() in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php:264
+Stack trace:
+#0 /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/dashboard.php(10): include_once()
+#1 {main}
+  thrown in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php on line 264
+[09-Mar-2024 07:40:48 UTC] PHP Notice:  Undefined index: acct_email in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php on line 36
+[09-Mar-2024 07:40:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userDetails() in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php:263
+Stack trace:
+#0 /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/dashboard.php(10): include_once()
+#1 {main}
+  thrown in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php on line 263
+[09-Mar-2024 07:50:23 UTC] PHP Notice:  Undefined index: acct_email in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php on line 36
+[09-Mar-2024 07:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userDetails() in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php:263
+Stack trace:
+#0 /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/dashboard.php(10): include_once()
+#1 {main}
+  thrown in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php on line 263
+[09-Mar-2024 07:50:29 UTC] PHP Notice:  Undefined index: acct_email in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php on line 36
+[09-Mar-2024 07:50:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userDetails() in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php:263
+Stack trace:
+#0 /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/dashboard.php(10): include_once()
+#1 {main}
+  thrown in /home/u693350619/domains/goldenvvipplatform.com/public_html/portal/user/layouts/header.php on line 263
